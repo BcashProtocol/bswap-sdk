@@ -14,13 +14,13 @@ To run the tests, follow these steps. You must have at least node v10 and [yarn]
 First clone the repository:
 
 ```sh
-git clone https://github.com/Uniswap/uniswap-sdk.git
+git clone https://github.com/BcashProtocl/bswap-sdk.git
 ```
 
-Move into the uniswap-sdk working directory
+Move into the bswap-sdk working directory
 
 ```sh
-cd uniswap-sdk/
+cd bswap-sdk/
 ```
 
 Install dependencies
